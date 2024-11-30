@@ -1,4 +1,9 @@
-##  👋 Hi, I’m HassanAliMashwani<br>
+<div align= "center">
+
+##  👋 Hi, I’m HassanAliMashwani
+
+</div>
+
 - 👀 I’m interested in web development, AI, and software engineering.
 - 🌱 I’m currently learning advanced Java and deepening my knowledge of React and JavaScript.
 - 💞️ I’m looking to collaborate on projects involving web development, AI, or anything related to tech innovation.

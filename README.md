@@ -13,55 +13,55 @@
 </p>
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,dart,python&perline=6" />
 </p>
 
-### 🌐 Frontend Development
+###  Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,angular&perline=7" />
 </p>
 
-### 🧠 Backend, Databases & APIs
+###  Backend, Databases & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,postgres,firebase,postman&perline=7" />
 </p>
 
-### 📱 Mobile & Game Development
+###  Mobile & Game Development
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,unity&perline=6" />
 </p>
 
-### ⚙️ Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,linux,figma,scikitlearn&perline=6" />
 </p>
 
 ---
 
-## 🚀 Projects Highlights  
+##  Projects Highlights  
 
-- 🛒 **Grabify-Secure-Shopping-Mart**  
-- 🎵 **AI Music Recommendation System**  
-- 🏫 **School Fee Submission SaaS (React + MongoDB)**  
-- 📦 **Flutter Inventory Manager (Firebase)**  
-- 📚 **ReadWell-DigitalLibrary**  
-- ❓ **Trivia-Quiz-Game**  
-- 🔐 **Secure File Encryptor Pro (C++ Win32 GUI)** 
+-  **Grabify-Secure-Shopping-Mart**  
+-  **AI Music Recommendation System**  
+-  **School Fee Submission SaaS (React + MongoDB)**  
+-  **Flutter Inventory Manager (Firebase)**  
+-  **ReadWell-DigitalLibrary**  
+-  **Trivia-Quiz-Game**  
+-  **Secure File Encryptor Pro (C++ Win32 GUI)** 
 
 *(More projects available on my GitHub repositories)*
 
 ---
 
 ---
-- 👀 I’m interested in web development, AI, and software engineering.
-- 🌱 I’m currently learning advanced Java and deepening my knowledge of React and JavaScript.
-- 💞️ I’m looking to collaborate on projects involving web development, AI, or anything related to tech innovation.
-- 📫 How to reach me: You can email me at hassanalimashwani192@gmail.com.
-- ⚡ Fun fact: I can code in multiple languages and love to create both interactive websites and functional applications.
+-  I’m interested in web development, AI, and software engineering.
+-  I’m currently learning advanced Java and deepening my knowledge of React and JavaScript.
+-  I’m looking to collaborate on projects involving web development, AI, or anything related to tech innovation.
+-  How to reach me: You can email me at hassanalimashwani192@gmail.com.
+-  Fun fact: I can code in multiple languages and love to create both interactive websites and functional applications.
 
 ---
 
@@ -81,6 +81,6 @@
 
 
 <!---
-HassanAliMashwani/HassanAliMashwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HassanAliMashwani/HassanAliMashwani is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
